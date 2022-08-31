@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.55f278ad.css",
-    "main.js": "/static/js/main.49fb800d.js",
-    "static/js/787.99988aef.chunk.js": "/static/js/787.99988aef.chunk.js",
-    "static/media/fondofooter.png": "/static/media/fondofooter.4ca532c6a337e45124bd.png",
-    "static/media/logoheader.png": "/static/media/logoheader.4b5251e5373883320d89.png",
-    "index.html": "/index.html",
-    "main.55f278ad.css.map": "/static/css/main.55f278ad.css.map",
-    "main.49fb800d.js.map": "/static/js/main.49fb800d.js.map",
-    "787.99988aef.chunk.js.map": "/static/js/787.99988aef.chunk.js.map"
+    "main.css": "/AthenaStore/static/css/main.c604ff3f.css",
+    "main.js": "/AthenaStore/static/js/main.60f03889.js",
+    "static/js/787.99988aef.chunk.js": "/AthenaStore/static/js/787.99988aef.chunk.js",
+    "static/media/fondofooter.png": "/AthenaStore/static/media/fondofooter.4ca532c6a337e45124bd.png",
+    "static/media/logoheader.png": "/AthenaStore/static/media/logoheader.4b5251e5373883320d89.png",
+    "index.html": "/AthenaStore/index.html",
+    "main.c604ff3f.css.map": "/AthenaStore/static/css/main.c604ff3f.css.map",
+    "main.60f03889.js.map": "/AthenaStore/static/js/main.60f03889.js.map",
+    "787.99988aef.chunk.js.map": "/AthenaStore/static/js/787.99988aef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55f278ad.css",
-    "static/js/main.49fb800d.js"
+    "static/css/main.c604ff3f.css",
+    "static/js/main.60f03889.js"
   ]
 }
